@@ -1,0 +1,15 @@
+digraph automata_finito {
+    rankdir = LR;
+
+    #definir estados
+    invisible [style=invisible]
+    estado_inicial [label=q0 shape=circle]
+    estado_final [label=q1 shape=doublecircle]
+
+    # definir transiciones
+    invisible -> estado_inicial [label=inicio]
+    estado_inicial:w -> estado_inicial:n [label=0]
+    estado_inicial:n -> estado_final:n [label=1]
+    estado_final:e -> estado_final:n [label=1]
+    estado_final:s -> estado_inicial:s [label=0]
+}
