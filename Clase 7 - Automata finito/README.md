@@ -1,0 +1,1 @@
+![Automata finito](img/automata.png)
