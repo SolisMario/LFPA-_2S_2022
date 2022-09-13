@@ -1,0 +1,5 @@
+Int numero ? 2 + 3 + 1;
+INT numero = 5;
+Int numero & 2 + 3 + 1;
+Int numero = 2 + 3 + 1;
+Int numero # 2 + 3 + 1;

@@ -1,0 +1,10 @@
+digraph automata_finito {
+	tabla1 [label=<
+    <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">
+    <TR>
+        <TD>Fila</TD>
+        <TD>Columna</TD>
+        <TD>Tipo</TD>
+        <TD>Error</TD>
+    </TR><TR><TD>0</TD><TD>11</TD><TD>Lexico</TD><TD></TD></TR><TR><TD>0</TD><TD>39</TD><TD>Lexico</TD><TD></TD></TR><TR><TD>0</TD><TD>75</TD><TD>Lexico</TD><TD></TD></TR></TABLE>>]
+}
