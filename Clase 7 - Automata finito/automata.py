@@ -149,6 +149,7 @@ cadena = open('archivo.txt', 'r').read()
 resultado = autom.analizar(cadena, Operacion('suma'))
 
 for oper in resultado[1]:
-    print(oper.operar())
+    resultado = oper.operar()
+    print(resultado[0], "=", resultado[1])
 
 autom.imprimir_tokens()

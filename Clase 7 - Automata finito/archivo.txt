@@ -4,7 +4,7 @@
         <Numero>6</Numero>
         <Numero >8</Numero>
     </Operacion>
-    <Operacion=SUMA>
+    <Operacion=MULTIPLICACION>
         <Numero>2</Numero>
         <Numero >3</Numero>
     </Operacion>
